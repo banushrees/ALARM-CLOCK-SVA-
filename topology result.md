@@ -35,3 +35,16 @@ uvm_test_top               alarm_clock_rand_test        -     @464
         put_ap             uvm_analysis_port            -     @602
         put_export         uvm_put_imp                  -     @584
 -------------------------------------------------------------------
+## Verification Results
+
+The Alarm Clock was verified using a UVM-based SystemVerilog
+testbench with SystemVerilog Assertions.
+
+| Metric | Result |
+|---|---:|
+| Tests | 3 |
+| Overall URG Score | 84.38% |
+| Assertion Coverage | 80.00% |
+| Group Coverage | 88.75% |
+| DUV Coverage Score | 85.71% |
+Overall URG coverage score: 84.38%; assertion coverage: 80.00%; group coverage: 88.75%.
