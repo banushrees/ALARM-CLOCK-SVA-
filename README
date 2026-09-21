@@ -1,7 +1,7 @@
 # ALARM-CLOCK (SVA)
 # Alarm Clock Verification using SystemVerilog Assertions (SVA)
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on the verification of an Alarm Clock RTL design using
 SystemVerilog Assertions (SVA) and a UVM-based SystemVerilog verification
@@ -11,7 +11,7 @@ The verification environment checks alarm-clock functionality including
 current-time operation, alarm behavior, display outputs and related FSM
 behavior.
 
-## 🎯 Verification Objectives
+## Verification Objectives
 
 - Verify alarm-clock functionality using a UVM-based testbench.
 - Verify FSM behavior using SystemVerilog Assertions.
@@ -20,7 +20,7 @@ behavior.
 - Exercise different operating scenarios using multiple test cases.
 - Measure assertion and coverage results using Synopsys VCS and URG.
 
-## 🧪 Test Cases
+## Test Cases
 
 The regression contains three test cases:
 
@@ -30,7 +30,7 @@ The regression contains three test cases:
 | TC2 | `alarm_clock_current_time_test` |
 | TC3 | `alarm_clock_child_test` |
 
-## 🏗️ Verification Environment
+## Verification Environment
 
 The testbench uses a UVM-based architecture consisting of components such as:
 
@@ -67,7 +67,7 @@ SVA assertions are bound to the FSM hierarchy of the Alarm Clock DUT.
 The assertions are used to monitor FSM-related behavior and verify expected
 relationships between control signals and state transitions.
 
-⚙️ Tools Used
+## Tools Used
 SystemVerilog
 UVM
 Synopsys VCS
@@ -75,7 +75,7 @@ Synopsys URG
 Verdi
 Linux
 SystemVerilog Assertions (SVA)
-📊 Verification Results
+Verification Results
 
 The regression was executed using three test cases and coverage was merged
 using Synopsys URG.
