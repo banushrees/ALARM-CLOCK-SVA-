@@ -6,6 +6,7 @@
 This project focuses on the verification of an Alarm Clock RTL design using
 SystemVerilog Assertions (SVA) and a UVM-based SystemVerilog verification
 environment.
+<img width="1520" height="1034" alt="image" src="https://github.com/user-attachments/assets/c1a172b1-74b4-41ec-819c-fa302dd81aaf" />
 
 The verification environment checks alarm-clock functionality including
 current-time operation, alarm behavior, display outputs and related FSM
@@ -104,6 +105,8 @@ Alarm_Clock/
 │
 ├── rtl/
 │   └── RTL source files
+<img width="1418" height="1109" alt="image" src="https://github.com/user-attachments/assets/06036161-9f72-4514-bf1f-14e87d667976" />
+
 │
 ├── alarm_clock_env/
 │   ├── top.sv
@@ -118,7 +121,9 @@ Alarm_Clock/
 │
 ├── alarm_clock_display_agent/
 │   └── Display agent components
-│
+
+│<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/33c43658-3fc7-42ee-9f9a-946f86a9ab9b" />
+
 ├── alarm_clock_assertions/
 │   └── fsm_assertions.sv
 │
