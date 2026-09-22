@@ -45,8 +45,6 @@ The testbench uses a UVM-based architecture consisting of components such as:
 - SystemVerilog Assertions
 
 ### Verification Flow
-
-text
 Test
   ↓
 UVM Environment
