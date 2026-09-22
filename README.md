@@ -2,7 +2,6 @@
 # Alarm Clock Verification using SystemVerilog Assertions (SVA)
 
 ## Project Overview
-
 This project focuses on the verification of an Alarm Clock RTL design using
 SystemVerilog Assertions (SVA) and a UVM-based SystemVerilog verification
 environment.
