@@ -120,6 +120,8 @@ Alarm_Clock/
 │
 ├── alarm_clock_display_agent/
 │   └── Display agent components
+<img width="1897" height="829" alt="image" src="https://github.com/user-attachments/assets/dfbfd478-d9a3-4f2d-bee5-1f0b51694683" />
+
 
 │<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/33c43658-3fc7-42ee-9f9a-946f86a9ab9b" />
 
