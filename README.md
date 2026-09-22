@@ -46,7 +46,7 @@ The testbench uses a UVM-based architecture consisting of components such as:
 
 ### Verification Flow
 
-```text
+text
 Test
   ↓
 UVM Environment
